@@ -42,4 +42,4 @@ A fun hackathon web app that snaps your photo, detects your mood using Groq's AP
 
 ---
 
-*Hackathon-ready. Fast, fun, and simple!* 
+*Hackathon-ready. Fast, fun, and simple!*
